@@ -1,0 +1,125 @@
+body {
+    margin: auto;
+}
+
+header {
+    background-color: crimson;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: lightseagreen;
+    font-size: 16px;
+    width: auto;
+    background-color: antiquewhite;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+h2 {
+    color: crimson;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 10px;
+}
+
+.info {
+    color: blueviolet;
+    text-align: center;
+    font-size: 16px;
+}
+
+h3 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.label {
+    color: crimson;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    padding: 10px 10px 10px 0px;
+}
+
+article {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    width: 100%;
+    display: inline-block;
+}
+
+.ulzone {
+    list-style-type: none;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+    border: 2px dashed lightseagreen;
+    background-color: lightyellow;
+    padding-bottom: 50px;
+}
+
+.addzone {
+    height: auto;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    width: -webkit-fill-available;
+    border: 1px solid lightseagreen;
+    background-color: lightyellow;
+}
+
+.input {
+    padding: 8px;
+    display: flex;
+    width: -webkit-fill-available;
+    border-bottom: 1px solid #ccc;
+    border: 1px solid #ccc !important;
+    border-radius: 2px;
+    font-size: medium;
+}
+
+.input:focus {
+    outline-color: crimson;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button {
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+    color: crimson;
+    border-color: crimson;
+}
+
+.button:focus {
+    outline-color: crimson;
+}
+
+footer {
+    background-color: crimson;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
