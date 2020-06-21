@@ -4,12 +4,12 @@
   quote: >
     Your people's safety and yours comes first. 
   description: | # this will include new lines to allow paragraphs
-    GeoGuardian is an Android app design to monitor user's movements, in order to send a notification to a person or persons of your trust whether an unexpected event happen during that time.
+    GeoGuardian is an Android app designed to monitor users movements, in order to send a notification to a person or persons of your trust if an unexpected event happens during that time.
 
-    This app enables the users to create routes so they can arrive to their destination and allows them create also safety and danger zones. 
-    In any case, the app will send notifications if the users don't get to their destination, they go out of safety zones or they go inside danger zones.
+    This app enables the users to create routes so they can arrive to their destination and also allows them to create safe and danger zones. 
+    In any case, the app will send notifications if the users don't get to their destination, they go out of safe zones or they go inside danger zones.
 
-    It is especially designed for unsupervised children, people with demetia or disabilites, transporters of valuables goods or people who want to feel safer when traveling through unstrusted areas or roads.
+    It is especially designed for unsupervised children, people with demetia or impairment, transporters of valuables goods or people who want to feel safer when traveling through unstrusted areas or roads.
 
     This was a team project, during my MSc. This app was made by 6 students (including myself), as an assignment.
 
@@ -19,8 +19,10 @@
   quote: >
     Basic project of information retrieval. 
   description: | # this will include new lines to allow paragraphs
-    'Explain like I'm 5' is a web app created to crawl [Explain Like I'm Five](https://www.reddit.com/r/explainlikeimfive/) subreddit, to analyze the information in the web and proccess it.
-    Once done that, it allows to perform searches based in information retrieval techniques.
+    'Explain like I'm 5' is a web app created to crawl the subreddit [Explain Like I'm Five](https://www.reddit.com/r/explainlikeimfive/), to analyze the information in the web and proccess it.
+    Once done that, it allows to perform searches based on information retrieval techniques.
+
+    This was a team project, during my MSc. This app was made by a classmate and I, as an assignment.
 
 - layout: top-middle
   name: MusicCommunity
@@ -30,4 +32,4 @@
   description: | # this will include new lines to allow paragraphs
     MusicCommunity is an app where you can store your music sheets and also allows you to get in touch with people with your same interests.
     
-    This web application allows you to open friendly discussionsabout certain topics, organize events, comment other people's work and create advertisements.
+    This web application allows you to open friendly discussions about certain topics, organize events, comment other people's work and create advertisements.

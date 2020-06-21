@@ -27,8 +27,9 @@ linkedin_username: luisfcr8
 #about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name's Luis and I'm a Software Engineer. My main work experience is making software and web apps, but I'm eager to work in any kind of project. 
-  I have worked at a couple of companies gaining teamwork and leadership skills. Still I keep learning everyday.
+  Hello! My name is Luis and I'm a Software Engineer. My work is mainly focused on software development, both front-end and back-end. 
+  However, I'm eager to work in any kind of project. I have worked at a couple of companies improving my teamwork and knowledge. 
+  Still, I keep learning everyday.
 
   I am most skilled in: <mark>Java</mark> , <mark>.Net</mark> and <mark>listening to music</mark>
 
